@@ -17,8 +17,11 @@ Data Description
 The data contains the different attributes of the employee and the employer. The detailed data dictionary is given below.
 
 case_id: ID of each visa application
+
 continent: Information of continent the employee
+
 education_of_employee: Information of education of the employee
+
 has_job_experience: Does the employee has any job experience? Y= Yes; N = No
 requires_job_training: Does the employee require any job training? Y = Yes; N = No
 no_of_employees: Number of employees in the employer's company
