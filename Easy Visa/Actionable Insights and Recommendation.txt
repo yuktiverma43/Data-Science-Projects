@@ -1,9 +1,7 @@
 Actionable Insights and Recommendations
 
 1. 50% of employees have prevailing wage as 70308 and mean salary is around 74455.81
-
 2. 40.02% has Bachelor’s degree, 37.8% has Master’s degree; 13.4% has high school and 8.6% has Doctorate degree.
-
 3. 58.1% has job experience and 41.9% does not have job experience.
 
 4. 88.4% employees does not require job training and 11.6% requires job training.
