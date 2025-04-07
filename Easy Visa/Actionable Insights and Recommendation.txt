@@ -3,33 +3,18 @@ Actionable Insights and Recommendations
 1. 50% of employees have prevailing wage as 70308 and mean salary is around 74455.81
 2. 40.02% has Bachelor’s degree, 37.8% has Master’s degree; 13.4% has high school and 8.6% has Doctorate degree.
 3. 58.1% has job experience and 41.9% does not have job experience.
-
 4. 88.4% employees does not require job training and 11.6% requires job training.
-
 5. Employees who do not require job training has more certified case status as compared to denied case status.
-
 6. Northeast is the top liked region for foreign workers. 28.2% intended to work for Northeast region; 27.5% intended to work for South region; 25.8% for west region while 1.5% for Island.
-
 7. Northeast, South and west has more certified case status as compared to denied case status.
-
 8. 90.1% prevailing wage is yearly; 8.5% has hourly prevailing wage and 0.3% as monthly.
-
 9. Employees with yearly wages has more certified case status as compared to denied case status.
-
 10. 89.4% work as full time and 10.6% as part time. Full time employees has more certified case status as compared to denied case status.
-
 11. Employees belonging to Asia has more Certified case status as compared to Denied case status. Asia has maximum no of certified case status with second no of maximum certified case status of Europe.
-
 12. The top continent from which employees belongs to is Asia and Europe.
-
 13. Employees with work experience has more chances of certified visa status as compared to employees with no work experience.
-
 14. Employees with Master’s and Bachelor’s degree has more certified case status as compared to denied case status.
-
 15. The most important columns are employees with education as High school , has a job experience and prevailing wage.
-
 16. Therefore, company should focus on employees with education as Bachelor’s and Master’s; who does not require job training and has job experience in order to have more visa approvals.
-
 17. Moreover, employees intended to work full time for Northeast, South or west region and belongs to Asia or Europe should be another focus for visa approvals.
-
 18. Also, another focus should be on employees who have yearly as prevailing wage and mean salary of approximately 75000 so that more visa got approved.
