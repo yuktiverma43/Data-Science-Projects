@@ -1,0 +1,3 @@
+Observations
+
+As per predictions for test.csv file, 249 people or 59.5% does not survived and 169 or 40.4% survived.
