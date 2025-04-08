@@ -1,0 +1,41 @@
+Actionable Insights and Recommendations
+
+1. 72% of data shows that 2 adults in each room stay at hotel.
+
+2. 92.6% represents children don’t stay at hotel.
+
+3. The longest stay at hotel including weekend nights is 7 and longest stay at hotel including week nights is 17. 46.6% donot prefer weekend nights and 27.6% spend 1 weekend night while 31.5% prefer 2 week nights.
+
+4. 75% of guests prefer to book hotel 126 days before arrival.
+
+5. Mean average price is 103.42 euros with 75% of guests prefer average price under 120 euros.
+
+6. 96.9% guests donot require car parking space
+
+7. Most preferred month to stay in hotel is October and second preferred month is September. Those who stay at hotel in October or September have not cancelled the booking.
+
+8. Guests mostly prefer to visit in middle of the month rather than end of the month.
+
+9. Least are the repeated guests for hotel stay. More than 97% of guests are first time visitors.
+
+10. 54.5% donot require special request; 31.4% require only 1 special request
+
+11. 67.2% has cancelled the booking while 32.8% have not cancelled the booking.
+
+12. 76.7% guests prefer only breakfast
+
+13. 77.5% guets like room type 1; 16.7% like room type 4 and none of guests like room type 3.
+
+14. 64% guests prefer online as market segment; 29% prefer offline as market segment.
+
+15. Lead time, average price per room and market segment online are the top three features.
+
+16. Therefore, most preference is 2 adults without children stay in one room each in hotel. Guests like to book through online market segment 126 days before arriving at the hotel and they are mostly interested in average price of less than 120 euros as room type 1 without car parking space and mostly with breakfast as a meal.
+
+17. Also, guests are not repeated guests and they are first time visitors who mostly prefer to visit in October or September month in middle of the month rather than end of month.
+
+18. Moreover, more than 50% donot require special request and if in case guests require special request, they are looking for 1 type of special requests.
+
+19. INN hotel can focus on lead time, average price per room and market segment online as the top three features to be profitable.
+
+20. INN hotel more focus should be on 2 adults with room type 1 of average price of 120 euros including breakfast booked online for month of October and without car parking space.
