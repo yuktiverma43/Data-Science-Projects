@@ -1,0 +1,89 @@
+Observation
+
+1. Approximately both clustering technique took same time.
+2. K Means clustering gave more distinct clusters as cluster 0 has 272 points, cluster 1 has 26 points, cluster 2 has 25 points, cluster 3 has 13 points, cluster 4 has 1 point and cluster 5 has 3 points where as in hierarchial clustering, cluster 0 has 2 points, cluster 1 has 2 points, cluster 2 has 3 points, cluster 3 has 1 point, cluster 4 has 1 point, cluster 5 has 1 point and cluster 6 has 330 points.
+3. K Means Clustering investment strategies are based on net income, net cash flow and estimated shares outstanding while Hierarchical clustering is based on P/B ratio, P/E ratio, volatility, ROE, net cash flow, net income, cash ratio, estimated shares outstanding, current price and earning per share.
+4. With K Means Clustering:- 
+(a) Cluster 0 has Industrials, Health Care, Consumer Staples, Utilities, Financials, Real Estate, Information Technology, Materials, Consumer Discretionary, Telecommunications Services, Energy companies. Cluster 0 has total of 272 points and the highest is 52 Industrials sector present followed by 45 financials and 33 consumer discretionary. The Sectors included in cluster 0 focus more on net income than estimated shares outstanding.
+(b) Cluster 2 has Information Technology, Health Care, Consumer Discretionary, Real Estate, Telecommunications Services, Energy, Consumer Staples, Materials companies present. Cluster 2 has 25 points and the highest is 9 IT sector followed by 7 health care. Net income, net cash flow and estimated shares outstanding has positive impact for companies in cluster 2.
+(c) Cluster 5 has health care, consumer discretionary and IT companies present. Cluster 5 has 3 points and each 1 is in consumer discretionary, health care and IT sector.
+Net cash flow, net income and estimated shares outstanding is positive.
+(d) Cluster 1 has Energy, Materials, Information Technology, Industrials companies present. Cluster 1 has 26 points and it has 22 energy sector present followed by 2 IT sector. Net income is negative. So companies should not focus on net income in cluster 1. Estimated shares outstanding has positive impact as compared to net cash flow.
+(e) Cluster 3 has Financials, Consumer Discretionary, Health Care, Information Technology, Consumer Staples, Telecommunications Services, Energy companies present. Cluster 3 has 13 points and the highest is 4 financials sector present followed by 3 health care. Sectors in cluster 3 should focus in net income followed by estimated shares outstanding and net cash flow.
+(f) Cluster 4 has Consumer Discretionary company present. Cluster 4 has 1 point and the only 1 consumer discretionary sector present. 1. The maximum current price of 1274.94, earnings per share of 50.09 is present in cluster 4. Net cash flow is negative in cluster 4 but net income is positive. Companies or investors should focus on net income.
+5. With Hierarchical clustering with no of clusters =7:- 
+(a) Cluster 6 has 330 points with Industrials, Health Care, Information Technology, Consumer Staples, Utilities, Financials, Real Estate, Materials, Consumer Discretionary, Energy, Telecommunications Services as sectors.
+(b) Cluster 5 has only 1 point that is IT sector. The maximum P/B ratio of 129.06 is present in cluster C. Cluster 2 has 3 points and that is Health Care, Consumer Discretionary, Information Technology. The maximum price change of 21.91 is present in cluster 2. The maximum P/E ratio of 400.8 is present in cluster 2.
+(c) Cluster 0 has energy sector. The maximum volatility of 3.48 and ROE of 802 is present in cluster 0. E. Cluster 1 has 2 sectors which is financials and IT. The maximum net cash flow and net income is present in cluster 1.
+(d) Cluster 3 has 1 sector only which is IT. The maximum cash ratio of 958 is present in cluster 3. The maximum estimated shares outstanding is present in cluster 3.
+(e) Cluster 4 has only 1 sector which is consumer discretionary sector. The maximum current price of 1274.94 is present in cluster 4. The maximum Earning per share of 50.09 is present in cluster 4.
+
+
+Actionable Insights and Recommendations
+
+Business Insights
+
+1. The mean price of stocks is 80 dollar with minimum price of 4.50 dollar and maximum price of 1274.94 dollar. 75% of stocks are below 92.88 dollar. The mean current price is highest for health care industry with current price as 132.04 followed by consumer discretionary with current price as 128.09 and real estate with current price as 90.97.
+2. The mean percentage change in stock price in 13 weeks is 4.078% The mean price change is highest for health care followed by consumer staples and IT.
+3. The mean volatility which is standard deviation of stock price in past 13 weeks is 1.52. The mean volatility is highest for energy industry followed by materials and IT.
+4. The mean ROE which is net income by shareholder’s equity is 39.59 The mean ROE is highest and approximately equal to Consumer staples and energy followed by Industrials.
+5. The mean cash ratio is 70.02 which is ratio of total of cash and cash equivalents to its total current liabilities. The mean cash ratio is highest for IT industry with cash ratio as 149.81 followed by telecommunications services with cash ratio as 117 and health care with cash ratio as 103.77
+6. The mean net income is highest for Telecommunications service followed by Financials and Consumer staples. The mean net cash flow is highest for IT and negative for telecommunications services
+7. The mean Earning per share(Company's net profit divided by the number of common shares it has outstanding (in dollars)) is 2.77. 75% of earning per share is below 4.62. 
+The mean earnings per share is highest and approximately equal for Industrials, Health care and Consumer Discretionary.
+8. The mean estimated shares outstanding is highest for Telecommunications services followed by Consumer Staples and IT.
+9. The mean P/E ratio which is ratios of company’s current stock price to earning per share is 32.61 The mean P/E ratio is highest for energy industry followed by IT, Real estate and health care
+10. The mean P/B ratio which is Ratio of the company's stock price per share by its book value per share (book value of a company is the net difference between that company's total assets and total liabilities) is -1.71 The mean P/B ratio is highest for IT sector followed by Energy sector. Other sectors have negative mean P/B Ratio with respect to GICS Sector.
+11. The total of GICS Sector is 11. 15.6% stocks are of Industrial sector; 14.4% are of Financial Sector; 11.8% of Health care and Consumer Discretionary; 9.7% of IT; 8.8% of energy and min stocks of 1.5% are of Telecommunications Services.
+12. The max GICS Sub industry frequency is of Oil and Gas Exploration and Production.
+13. 7% stocks are of Oil & Gas Exploration & Production Industry; 4.1% are of REIT and Industrial Conglomerates industry; 3.5% are of Electric Utilities and Internet Software & Services Industry and the minimum 1.8% stocks are of Pharmaceuticals, Packaged Foods & Meats, Oil & Gas Refining & Marketing & Transportation and Semiconductors Industry.
+
+With K Means Clustering:-
+
+(a) Cluster 0 has Industrials, Health Care, Consumer Staples, Utilities, Financials, Real Estate, Information Technology, Materials, Consumer Discretionary, Telecommunications Services, Energy companies. Cluster 0 has total of 272 points and the highest is 52 Industrials sector present followed by 45 financials and 33 consumer discretionary. The Sectors included in cluster 0 focus more on net income than estimated shares outstanding.
+(b) Cluster 2 has Information Technology, Health Care, Consumer Discretionary, Real Estate, Telecommunications Services, Energy, Consumer Staples, Materials companies present. Cluster 2 has 25 points and the highest is 9 IT sector followed by 7 health care. Net income, net cash flow and estimated shares outstanding has positive impact for companies in cluster 2.
+(c) Cluster 5 has health care, consumer discretionary and IT companies present. Cluster 5 has 3 points and each 1 is in consumer discretionary, health care and IT sector. Net cash flow, net income and estimated shares outstanding is positive.
+(d) Cluster 1 has Energy, Materials, Information Technology, Industrials companies present. Cluster 1 has 26 points and it has 22 energy sector present followed by 2 IT sector. Net income is negative. So companies should not focus on net income in cluster 1. Estimated shares outstanding has positive impact as compared to net cash flow.
+(e) Cluster 3 has Financials, Consumer Discretionary, Health Care, Information Technology, Consumer Staples, Telecommunications Services, Energy companies present. Cluster 3 has 13 points and the highest is 4 financials sector present followed by 3 health care. Sectors in cluster 3 should focus in net income followed by estimated shares outstanding and net cash flow.
+(f) Cluster 4 has Consumer Discretionary company present. Cluster 4 has 1 point and the only 1 consumer discretionary sector present. 1. The maximum current price of 1274.94, earnings per share of 50.09 is present in cluster 4. Net cash flow is negative in cluster 4 but net income is positive. Companies or investors should focus on net income.
+
+With Hierarchical clustering with no of clusters =7:- 
+(a) Cluster 6 has 330 points with Industrials, Health Care, Information Technology, Consumer Staples, Utilities, Financials, Real Estate, Materials, Consumer Discretionary, Energy, Telecommunications Services as sectors.
+(b) Cluster 5 has only 1 point that is IT sector. The maximum P/B ratio of 129.06 is present in cluster
+(c) Cluster 2 has 3 points and that is Health Care, Consumer Discretionary, Information Technology. The maximum price change of 21.91 is present in cluster 2. The maximum P/E ratio of 400.8 is present in cluster 2.
+(d) Cluster 0 has energy sector. The maximum volatility of 3.48 and ROE of 802 is present in cluster 0.
+(e) Cluster 1 has 2 sectors which is financials and IT. The maximum net cash flow and net income is present in cluster 1.
+(f) Cluster 3 has 1 sector only which is IT. The maximum cash ratio of 958 is present in cluster 3. The maximum estimated shares outstanding is present in cluster 3.
+(g) Cluster 4 has only 1 sector which is consumer discretionary sector. The maximum current price of 1274.94 is present in cluster 4. The maximum Earning per share of 50.09 is present in cluster 4.
+
+Business Recommendations
+
+1. Investors focusing on current price should target on health care, consumer discretionary and real estate.
+2. As the current price is highest for health care therefore the price change is maximum for health care.
+3. Energy industry has maximum volatility in past 13 weeks.
+4. ROE is highest for consumer staples and Industrials.
+5. Cash ratio is highest for IT and telecommunications. As IT industry do not require much infrastructure therefore this industry has maximum cash ratio.
+6. Mean net income is highest for telecommunications and mean net cash flow is highest for IT. As cash ratio is highest for Telecommunications and IT, therefore net income and net cash flow is highest for these as they have more cash reserved as compared to other industries.
+7. Mean EPS is highest for industrials, health care and consumer discretionary.
+8. Mean estimated shares outstanding is highest for Telecommunication and IT.
+9. Mean P/E is highest for IT, real estate and health care as EPS is also highest for IT.
+10. Mean P/B ratio is highest for IT.
+11. The maximum stocks are of Industrial Sector followed by Financials, health care and Consumer discretionary. The minimum stocks are of telecommunications services. The maximum stock price is sub industry is of Oil and Gas Exploration and Production & REIT.
+12. With K means clustering with no f clusters as 6: 
+(a) Cluster 2 has IT, health care, telecommunications, real estate, consumer discretionary sectors. Investors target on investing for companies in cluster 2 should consider net income, net cash flow and estimated shares outstanding before investing.
+(b) Cluster 5 has health care, IT and consumer discretionary as sectors. Investors interested in companies of cluster 5 should focus on Net cash flow, net income and estimated shares outstanding.
+(c) Cluster 1 has energy, materials, IT and Industrials. Investors should never look into net income for making decision for investment in cluster 1 companies and should focus on estimated shares outstanding.
+(d) Cluster 3 has Financials, consumer discretionary, health care, IT and telecommunications sector. Investors should focus more on net income as compared to estimated shares outstanding and net cash flow if interested in investing in cluster 3 industry.
+(e) Cluster 4 only has consumer discretionary. Investors should focus on net income and never focus on net cash flow for cluster 4 companies.
+(f) Cluster 0 has Industrials, Health Care, Consumer Staples, Utilities, Financials, Real Estate, Information Technology, Materials, Consumer Discretionary, Telecommunications Services, Energy companies. Investors investing in cluster 0 industry should focus on net income and estimated shares outstanding.
+
+With Hierarchical Clustering: 
+(a) Cluster 5 only has IT. Maximum P/B ratio is in cluster 5. Investors investing in cluster 5 companies should make decision on basis of P/B ratio.
+(b) Cluster 2 has health care, consumer discretionary and IT. Investors investing in cluster 2 make decisions on basis of price change and P/E ratio.
+(c) Cluster 0 has only energy sector. Investors investing in cluster 0 should focus on volatility and ROE.
+(d) Cluster 1 has IT and Financials. Investors investing in cluster 1 should focus on net cash flow and net income.
+(e) Cluster 3 has only IT sector. Investors investing in cluster 3 should focus on cash ratio and estimated shares outstanding.
+(f) Cluster 4 has only consumer discretionary sector. Investors investing in cluster 4 should focus on current price and Earning per share.
+(g) Cluster 6 has Industrials, health care, IT, Financials, Real estate, consumer discretionary, telecommunications sectors.
+
+K Means Clustering investment strategies are based on net income, net cash flow and estimated shares outstanding while Hierarchical clustering is based on P/B ratio, P/E ratio, volatility, ROE, net cash flow, net income, cash ratio, estimated shares outstanding, current price and earning per share.
