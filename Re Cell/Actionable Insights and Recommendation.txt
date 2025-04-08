@@ -1,0 +1,21 @@
+Actionable Insights and Recommendations
+
+1. A unit increase in main camera mp will increase used price by 0.021 units, all other variables held constant.
+2. If selfie camera mp increase by 1 unit, used price will increase by 0.10 units, all other variables held constant.
+3. A unit increase in int memory will increase used price by 0.00018 units, all other variables held constant.
+4. A unit increase in ram will increase used price by 0.027 units, all other variables held constant.
+5. A unit increase in normalized new price will increase used price by 0.412 units, all other variables held constant.
+6. A unit increase in no of release year will decrease used price by 0.015 units, all other variables held constant.
+7. The used price for brand name Celkon is 0.18 units less than brand name Alcatel
+8. The used price for brand name Celkon is 0.08 units more than brand name Alcatel
+9. The used price for brand name Celkon is 0.07 units more than brand name Alcatel
+10. The used price for devices having 4g is 0.036 units more than devices not having 4g
+11. The used price for devices having 5g is 0.087 units less than devices not having 5g
+12. Company can focus on others and Samsung Brand.
+13. Majority of devices use Android as O.S, therefore, used devices for android is more profitable as compared to other O.S.
+14. 50% of devices have screen size 13 cm
+15. More devices have 4g as compared to 5g.
+16. Internal memory for most of the devices is less than 100GB.
+17. Company can focus on devices with 13mp main camera and 5mp selfie camera.
+18. Several variables have positive relationship with each other such as:- Screen size and battery; screen size and weight; weight and battery; selfie camera and release year; normalized used price and normalized new price. It means if one of the variable with increase the other will also increase. For example, if size of selfie camera in mp increases, it means release year will also be upgraded or increased.
+19. Attributes helping in predicting used price are screen size, main camera mp, selfie camera mp, int memory, ram, normalized new price, no of release year, brand name Celkon, brand name Nokia, brand name Xiaomi, 4g yes and 5 g yes.
