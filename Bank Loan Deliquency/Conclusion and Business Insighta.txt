@@ -1,0 +1,17 @@
+Conclusion 
+
+1. term: Holding all other features constant a 1 unit change in term_60 months will decrease the odds of a person being delinquent by 0.13 times or a 87% decrease in odds of delinquency
+2. gender: The odds of a male customer being a delinquent customer is 2.21 times higher than a female or 121% higher than a female customer.
+3. purpose: The odds of a customer who is seeking a loan for a house being a delinquent customer is 1.09 times higher than for a car or 9.97% higher than a customer who is seeking a loan for a car. (keeping purpose_car as reference).
+4. The odds of a customer who is seeking a loan for medical reasons being a delinquent customer is 1.52 times more or 52% higher than a customer who is seeking a loan for a car. (keeping purpose_car as reference).
+5. The odds of a customer who is seeking a loan for other reasons being a delinquent customer is 0.96% lower or 3.9% lower than a customer who is seeking a loan for a car. (keeping purpose_car as reference).
+Interpretation for other attributes can be made similarly.
+6. age: Holding all other features constant a 1 unit change in age will increase the odds of a customer above 25 years being a delinquent customer is 1.75 times less than a customer of age group 20-25 or 75.9% higher than the customers in the age group 20-25
+7. FICO: The odds of a person with a FICO score above 500 being a delinquent customer is 0.13 times less than a customer with a FICO score between 300 to 500 or 86% lower than a customer with a FICO score between 300 to 500.
+
+Business Insights
+
+1. FICO, term and gender are the important variables in determining if a borrower will get into a delinquent stage
+2. No borrower shall be given a loan if they are applying for a 36-month term loan and have a FICO score in the range of 300-500.
+3. Female borrowers with a FICO score greater than 500 should be our target customers.
+4. Criteria to approve loan according to decision tree model should depend on three main factors - FICO score, duration of loan and gender that is - If the FICO score is less than 500 and the duration of the loan is less than 60 months then the customer will not be able to repay the loans. If the customer has a greater than 500 FICO score and is a female higher chances that they will repay the loans.
