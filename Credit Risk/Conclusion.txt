@@ -1,0 +1,6 @@
+1. The best test recall is ~100% but the test precision is very low i.e ~30% at the same time. This means that the model is not good at identifying non-defaulter, therefore, the bank can lose many opportunities of giving credit to non-defaulters.
+2. The model performance can be improved, especially in terms of precision and the bank can use use the model for new customers once desired level of model performance is achieved.
+3. We saw in our analysis that customers with a little or moderate amount in saving or checking accounts are more likely to default. The bank can be more strict with their rules or interest rates to compensate for the risk.
+4. Customers with high credit amounts or who take credit for a longer duration are more likely to default. The bank should be more careful while giving high credit amounts or for a longer duration.
+5. We saw that customers who have rented or free housing are more likely to default. The bank should keep more details about such customers like hometown address, etc. to be able to track them.
+6. Our analysis showed that younger customers are slightly more likely to default. The bank can alter its policies to suppress this.
