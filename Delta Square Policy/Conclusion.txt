@@ -1,0 +1,8 @@
+1. We have been able to build a predictive model that can be used by the government to find the citizens having less than 50K salary with an f1_score of 0.89 on the training set and formulate policies accordingly.
+2. All the logistic regression models have given a generalized performance on the training and test set.
+3. Coefficient of some levels of education, workclass, and native country are positive an increase in these will lead to increase in chances of a person having <=50K salary.
+4. Coefficient of age, fnlwgt, marital_status, working_hours_per_week,some levels of education, workclass, and native country are negative increase in these will lead to decrease in chances of a person having <=50K salary.
+5. The government should promote education among citizens, they should make policies to make education accessible to all, as we say in our analysis that people who have higher education are more likely to have a salary above 50,000 Dollars.
+6. Working hours is one of the significant predictors of salary, The government should implement laws to ensure that people are paid fairly for their work and are not overworked for the increase in salaries. This would improve work-life balance.
+7. Reforms should be made for private-sector employees so that they are paid fairly for their work.
+8. Policy formulated by the government should be considerate of equal pay and counter the pay gap that exists in society.
