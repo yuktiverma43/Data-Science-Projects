@@ -1,0 +1,5 @@
+1.A unit increase in per capita crime rate (CRIM) decreases the median house price by 0.1110 units, all other variables held constant.
+2. A unit increase in nitric oxides concentration (NX) decreases the median house price by 23.4485 units, all other variables held constant.
+3. A unit increase in average number of rooms (RM) increases the median house price by 2.7844 units, all other variables held constant.
+4. A unit increase in index of accessibility to radial highways (RAD) increases the median house price by 0.1353 units, all other variables held constant.
+5. Houses where tract bounds river (CHAS_yes) will have a 2.8779 units higher median price that the ones where tract does not bound river (CHAS_no).
