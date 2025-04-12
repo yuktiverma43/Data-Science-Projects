@@ -1,0 +1,7 @@
+Cluster 0: These are the Tier 1 Colleges and have excellent teaching, placements & internships while maintaining a moderate infrastructure and moderate fees. Corporates looking for the best candidates can approach this cluster for placements and internships.
+
+Cluster 2: These are the Tier 2 Colleges which are just behind the Tier 1 colleges in terms of teaching and placements, but provide quite better infrastructure and are accordingly more expensive. They have scope for improvements in teaching, placements, and internships, and should consider tie-ups with corporates and ed-tech and training organizations. Companies providing training programs to faculty and students should approach them.
+
+Cluster 3: These are the Tier 3 colleges which have very high fees and very good infrastructure, but do not offer proper value-for-money in terms of teaching and internships. This cluster of colleges will need to concentrate more towards onboarding better faculty and securing tie-ups with corporates to improve placement opportunities.
+
+Cluster 1 and Cluster 4: These are the poor performing colleges or new colleges. These colleges will need to concentrate more on marketing and advertisements about their offerings to create awareness and attract students.
