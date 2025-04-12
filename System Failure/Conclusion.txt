@@ -1,0 +1,6 @@
+1. The model built can be used to predict if a machine is going to fail or not and can correctly identify 96.1% of the machine failures
+2. Rotational speed, torque and tool wear are the most important variables in predicting whether a machine will fail or not
+3. From the decision tree, it has been observed that if the rotational speed is less than or equal to 1379.50, the air temperature is less than or equal to 301.55, the torque is less than or equal to 52.85 and the tool wear is greater than 206.50, then the machine is most likey to fail
+4.The company should give a vigilant eye for these values in order to detect machine failure.
+5. The company should use more data for the analysis to get more reliable results
+6. As the variable used vary with the type of operation (turning, drilling, etc.) being performed, the company can look to build separate models for each different type of operation
