@@ -1,0 +1,26 @@
+We will look into clusters 0, 2, and 5 only because the other clusters have only 1 or 2 countries in them.
+
+Cluster 0
+
+There are 88 countries in this cluster.
+The number of individuals using the internet is moderate and mobile subscribers are low to moderate.
+Expenditure on health is low to moderate and that on education is also low to moderate.
+GDP is low but the economy is healthy and balanced across agriculture, industry, services, and other activities.
+
+Cluster 2
+
+There are 132 countries in this cluster.
+The number of individuals using the internet is low but mobile subscribers are high.
+Expenditure on health is moderate to high and that on education is also moderate to high.
+GDP is moderate and economy is moderately healthy with a slightly high dependence on services and other activities.
+
+Cluster 5
+
+There are 5 countries in this cluster.
+The number of individuals using the internet are moderate to high and mobile subscribers are also moderate to high.
+Expenditure on health is high and that on education is moderate.
+GDP is high and economy is moderately healthy with a slightly high dependence on services and other activities.
+
+Business Recommendations
+
+Cluster 5 countries are good places to provide tourism services based on cluster profiling done above.
