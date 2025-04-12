@@ -1,0 +1,71 @@
+Data Description:
+
+1. The dataset has 2940 rows and 35 columns of data.
+2. There are no null values in the dataset.
+3. Attrition, BusinessTravel, Department, EducationField, Gender, JobRole, MaritalStatus, Over18, OverTime are of object data type while others are of integer data type.
+
+Data Cleaning:
+
+1. EmployeeNumber is an ID variable and not useful for predictive modeling.
+2. EmployeeCount has only 1 as the value in all the rows and can be dropped as it will not be adding any information to our analysis.
+3. Standard Hours has only 80 as the value in all the rows and can be dropped as it will not be adding any information to our analysis.
+4. As all the employees are aged more than 18, hence all the values in the Over18 column are 1. This variable was dropped.
+
+Observations from EDA:
+
+age: The variable Age is normally distributed with an average equal to 37 years. Age is positively correlated JobLevel and Education (i.e., the older an employee is, the more educated and at a higher job level they are).
+DailyRate: It is having a fairly uniform distribution with an average of 800. Employees having lower Daily rates and less monthly wage are more likely to attrite.
+DistanceFromHome: This shows a right-skewed distribution. Most people stay at a close distance from home with few also leaving away from work. Employees who have to travel a more distance from their home attrite more.
+HourlyRate: It is an almost uniformly distributed variable. It has mean and median approx equal to 65. The hourly rate doesn't have much impact on attrition.
+MonthlyIncome: Monthly Income distribution is almost right-skewed. Few employees are earning much higher than the rest of the employees. MonthlyIncome is highly correlated to Job Level (0.95).
+MonthlyRate: It is a uniformly distributed variable with a median close to 14500. The monthly rate doesn't have much impact on attrition.
+NumCompaniesWorked: On average people have worked at 2.5 companies with a median of 2 companies. The majority of people have worked in only one company. Approx 350 people are freshers. There are employees worked at 9 companies. They will be the outliers.
+PercentSalaryHike: It has a right-skewed distribution. It is correlated with performance rating with a coefficient of 0.77. Lesser salary hike also contributes to attrition.
+TotalWorkingYears: Work experience is having a significant right skew. It also contains few outliers.
+YearsAtCompany: Significantly skewed towards the right. Also contains outliers.
+YearsInCurrentRole: It is having few outliers. The lower whisker coincides with the first quartile.
+YearsWithCurrManager: It is a right-skewed variable with few outliers too.
+BusinessTravel: Almost 71% of employees have travel rarely and 19% travel frequently. As the travel frequency increases of an employee increases, the Attrition rate increases. There's a ~22% probability of employees attriting who travel frequently.
+Department: The R&D department consists of almost 65% of employees.
+EducationField:People with Life science background is dominant over others with almost 41% count.
+Gender: 60% of people are male while the rest are female.
+JobRole: Almost 22% of people are sales executives followed by 20% research scientists.
+MaritalStatus: Almost 46% of people are married and 32% are single.
+OverTime: Only almost 29% of people are ready to do overtime. Employees who work overtime tend to attrite more. There a ~35% probability of attrition among employees working overtime.
+Attrition: There's an imbalance in the data with 16% of the employees attriting and rest not.
+Attrition vs Earnings of employee:
+Employees having lower Daily rates and less monthly wage are more likely to attrite.
+Monthly rate and the hourly rate doesn't seem to have any effect on attrition.
+Lesser salary hike also contributes to attrition.
+
+Attrition vs Years working in company:
+Those employees who have spent less time at a company, in a current role, or with a manager have higher chances of attriting.
+Training doesn't seem to have an impact on Attrition.
+
+Attrition vs Previous job roles:
+Employees who have worked in more companies generally tend to switch more jobs hence attriting.
+Employees who attrite generally have lesser years of experience.
+
+Attrition vs Department, Job Role and Education:
+Majority of the employees work for the R&D department. The probability of attrition is least there.
+Both Sales and HR have similar Attrition probability.
+Sales Executives have an attrition probability of >40%.
+Laboratory Technicians and Human Resource personnel also have high probabilities of attrition.
+Attrition probability among Research Directors, Manufacturing directors Healthcare representatives, and Managers are much lower than the average attrition probability of 16%.
+25% of employees educated in human resources attrite.
+Attrition probability is also high in the case of marketing and technical degree holders.
+Employees who say they have low satisfaction with their work environments are likely to attrite.
+
+There's a ~40% probability of attrition among employees with low ratings for environment satisfaction.
+
+Job Involvement looks like a very strong indicator of attrition.
+
+Higher the job involvement, greater is the chance that the employee will stay with us and not attrite.
+
+Employees unhappy with their job involvement have ~55% probability of attriting (those who rated 0 and 1).
+
+Further investigation to understand how this variable was collected will give more insights.
+
+Salary hikes are a function of Performance ratings.
+
+We have to investigate why the employees who get Excellent(3) and Outstanding(4) Performance rating attrite and how then can they be retained.
