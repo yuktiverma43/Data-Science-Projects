@@ -1,0 +1,7 @@
+1. We can use this predictive model for any season and environmental parameters (which we know in advance) and can predict the count of the bikes to be rented. The ability to predict the number of hourly users can allow the entities (businesses/governments) that oversee these systems to manage them more efficiently and cost-effectively.
+2. More bikes can be made available for the fall and winter seasons as the number of bikes rented is high in these seasons.
+3. As the number of bikes rented is high for day timings compared to night timings, similarly, fall and winter seasons have more surges compared to other seasons. We can choose differential prices of bikes accordingly.
+4. As most of the rentals are for commuting to workplaces and colleges daily, company can launch more stations near busy workplaces or schools/colleges to reach out to their main customers.
+5. Number of bikes rented is heavily dependent on the weather. So, we should adjust the number of available bikes in an area based on the weather forecast.
+6. Maintenance activities for bikes can be done at night due to low usage of bikes during the nighttime.
+7. Company can provide offers or coupons like a monthly subscription to compensate for the low count on holidays or weekends.
