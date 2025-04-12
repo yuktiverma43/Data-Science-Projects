@@ -1,0 +1,10 @@
+1. We can see that three variables - Glucose, Age, and BMI are the most important factors in identifying persons who are at risk of diabetes. Other variables' importance is not significant.
+2. Once the desired performance is achieved from the model, the company can use it to predict the risk factor of diabetes in new patients. This would help to reduce the cost and increase the efficiency of the process.
+3. Identifying the risk of diabetes at early stages, especially among pregnant women, can help to control the disease and prevent the second health problem.
+4. As per the decision tree business rules:
+(a) Women's glucose level <=127 and age <=28 have a lower risk of diabetes.
+(b) Women's glucose level >100 and age >28 have a higher risk of diabetes.
+(c) Women's glucose level >127 and BMI <=28 have a lower risk of diabetes.
+5. Based on the above analysis, we can say that:
+(a) Middle-aged to older women has a higher risk of diabetes. They should keep the glucose level in check and take proper precautions.
+(b) Overweight women have a higher risk of diabetes. They should keep the glucose level in check and exercise regularly.
