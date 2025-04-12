@@ -1,0 +1,12 @@
+1. Based on our analysis, we can say that the premium quality wine has the following features in comparison to the non-premium quality wine:
+(a) Higher concentration of alcohol.
+(b) A fair and higher concentration of sulfates. Fair indicates a smaller range of values or less extreme values.
+(c) Less volatile acidity.
+(d) Higher fixed acidity.
+(e) Higher citric acid concentration.
+(e) A fair and lower concentration of total sulfur dioxide and free sulfur dioxide.
+(f) Lower concentration of chlorides.
+(g) Lesser density.
+(h) A fair pH level i.e. neither very acidic nor very less acidic.
+2. The company should be more precise with the concentration and level of alcohol, volatile acidity, and sulfates as these are the most important factors in determining the quality of wines. For example, the common alcohol level for premium quality wine should be between 11-13%.
+3. Once the desired performance is achieved from the model, the company can use it to identify the premium quality wines for new production. This would help to reduce the cost and increase the efficiency of the process.
